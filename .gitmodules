@@ -7,3 +7,6 @@
 [submodule "public/funcunit"]
 	path = public/funcunit
 	url = git@github.com:thomasdeater/funcunit.git
+[submodule "public/jquery"]
+	path = public/jquery
+	url = git@github.com:thomasdeater/jquerymx.git
